@@ -1,4 +1,5 @@
-# garin
+# 프로젝트명 garin
 
-hello
-main branch
+주제: 문장독립 화자인식을 통한 개인 비서의 개선
+
+
